@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<skills>
+  <theory>types of testing</theory>
+  <theory>testing methods</theory>
+  <theory>SDLC</theory>
+  <theory>STLC</theory>
+  <documentation>check list</documentation>
+  <documentation>test case</documentation>
+  <documentation>test plan</documentation>
+  <documentation>bug report</documentation>
+  <client_server_architecture>client</client_server_architecture>
+  <client_server_architecture>server</client_server_architecture>
+  <client_server_architecture>database</client_server_architecture>
+  <client_server_architecture>data transfer protocols</client_server_architecture>
+  <client_server_architecture>status codes</client_server_architecture>
+  <programs>Postman</programs>
+  <programs>Charles</programs>
+  <programs>Fidler</programs>
+  <programs>Android Studio</programs>
+  <programs>XCode</programs>
+  <programs>Jmeter</programs>
+  <SQL>Create</SQL>
+  <SQL>Delete</SQL>
+  <SQL>Drop</SQL>
+  <SQL>Insert Into</SQL>
+  <SQL>Select</SQL>
+  <SQL>Join</SQL>
+</skills>
