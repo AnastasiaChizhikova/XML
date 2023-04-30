@@ -1,1 +1,18 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<bug_report>
+  <bug_id>155</bug_id>
+  <severity>minor</severity>
+  <priority>medium</priority>
+  <environment>Windows 10 Pro</environment>
+  <environment>Chrome 112</environment>
+  <environment>Firefox 112</environment>
+  <bug_title>Clicking on the Instagram icon on the [About us] page in the footer of the website will take you to the Instagram Home Page (instagram.com)</bug_title>
+  <STR>Navigate to ourwebsite.com</STR>
+  <STR>Go to the page [About us]</STR>
+  <STR>Move down to the page footer</STR>
+  <STR>Click on the Instagram icon</STR>
+  <AR>The Home Page of Instagram opens</AR>
+  <ER>The company's page on Instagram opens</ER>
+  <Attachment>Link</Attachment>
+  <Author>Anastasiia Chyzhykova</Author>
+</bug_report>
