@@ -59,7 +59,7 @@
  :wq - save changes and exit
  ```
   
-  ```javascript
+  ```XML
 <?xml version="1.0" encoding="UTF-8" ?>
 <personal_info>
   <name>Anastasiia</name>
@@ -103,7 +103,7 @@
  :wq - save changes and exit
 ```
 
-```javascript
+```XML
 <?xml version="1.0" encoding="UTF-8" ?>
 <my_preferences>
   <favorite_series>Sherlock</favorite_series>
@@ -122,7 +122,7 @@
 
 `cat> skills.xml`
 
-```javascript
+```XML
 <?xml version="1.0" encoding="UTF-8" ?>
 <skills>
   <theory>types of testing</theory>
@@ -203,7 +203,7 @@
 
 `edit this file (bug_report.xml)`
 
-```javascript
+```XML
 <?xml version="1.0" encoding="UTF-8" ?>
 <bug_report>
   <bug_id>155</bug_id>
