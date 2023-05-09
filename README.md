@@ -52,12 +52,14 @@
 
 **7. Edit the content of the "new.xml" file - write information about yourself (name, age, number of pets, future desired salary). Write everything in XML format.**
 
- `vim new.xml,
+```
+ vim new.xml,
  i - switch to edit mode,
  esc - switch to command mode,
- :wq - save changes and exit` 
+ :wq - save changes and exit
+ ```
   
-  ```
+  ```javascript
 <?xml version="1.0" encoding="UTF-8" ?>
 <personal_info>
   <name>Anastasiia</name>
@@ -94,12 +96,14 @@
 
 **10. In the preferences.xml file, add information about your preferences (favorite movie, favorite series, favorite food, favorite season, country you would like to visit) in XML format.**
 
-`vim preferences.xml,
+```
+ vim preferences.xml,
  i - switch to edit mode,
  esc - switch to command mode,
- :wq - save changes and exit`
-
+ :wq - save changes and exit
 ```
+
+```javascript
 <?xml version="1.0" encoding="UTF-8" ?>
 <my_preferences>
   <favorite_series>Sherlock</favorite_series>
@@ -118,7 +122,7 @@
 
 `cat> skills.xml`
 
-```
+```javascript
 <?xml version="1.0" encoding="UTF-8" ?>
 <skills>
   <theory>types of testing</theory>
@@ -199,7 +203,7 @@
 
 `edit this file (bug_report.xml)`
 
-```
+```javascript
 <?xml version="1.0" encoding="UTF-8" ?>
 <bug_report>
   <bug_id>155</bug_id>
